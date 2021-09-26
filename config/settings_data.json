@@ -15,6 +15,9 @@
     "social_instagram_link": "http:\/\/instagram.com\/obrolabs",
     "social_snapchat_link": "https:\/\/www.snapchat.com\/add\/obrolabs",
     "social_youtube_link": "https:\/\/www.youtube.com\/channel\/UC28eGhCTX5MhFwmaynbQtKA",
+    "predictive_search_show_vendor": true,
+    "favicon": "shopify:\/\/shop_images\/Obro-favicon-gold.png",
+    "currency_code_enabled": true,
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
@@ -38,8 +41,8 @@
         "type": "header",
         "settings": {
           "color_scheme": "inverse",
-          "logo": "shopify:\/\/shop_images\/obro-logo-100x50_aea6a0f0-60e7-4638-a1fd-1c39c1f99633.png",
-          "logo_width": 100,
+          "logo": "shopify:\/\/shop_images\/obro-logo-modern-old-gold.png",
+          "logo_width": 80,
           "logo_position": "middle-left",
           "menu": "main-menu",
           "show_line_separator": true,
