@@ -18,6 +18,12 @@
     "predictive_search_show_vendor": true,
     "favicon": "shopify:\/\/shop_images\/Obro-favicon-gold.png",
     "currency_code_enabled": true,
+    "checkout_logo_image": "shopify:\/\/shop_images\/obroblack_transparantbackground.png",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "small",
+    "checkout_sidebar_background_color": "#f5f5f5",
+    "checkout_accent_color": "#121212",
+    "checkout_button_color": "#121212",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
